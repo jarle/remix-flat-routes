@@ -27,14 +27,9 @@
     "remix",
     "routing-convention"
   ],
-  "author": {
-    "name": "Kiliman",
-    "email": "kiliman@gmail.com",
-    "url": "https://kiliman.dev"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kiliman/remix-flat-routes.git"
+    "url": "https://github.com/jarle/remix-flat-routes.git"
   },
   "license": "MIT",
   "dependencies": {
